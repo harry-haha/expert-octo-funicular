@@ -5,7 +5,7 @@
  */
 const ASSET_URL = 'https://harry-haha.github.io/expert-octo-funicular/'
 // 前缀，如果自定义路由为example.com/gh/*，将PREFIX改为 '/gh/'，注意，少一个杠都会错！
-const PREFIX = '/expert-octo-funicular/'
+const PREFIX = '/'
 // 分支文件使用jsDelivr镜像的开关，0为关闭，默认关闭
 const Config = {
     jsdelivr: 0
